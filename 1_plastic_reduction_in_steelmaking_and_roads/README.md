@@ -65,16 +65,16 @@ use of plastic in smelting ore.
 Iron ore needs a reducing agent in the form of coke or carbon monoxide
 in order to be converted into liquid iron.
 
-$$Fe_2 O_3 + 3C \rarr 2 Fe + 3 CO$$
+$$Fe_2 O_3 + 3C -> 2 Fe + 3 CO$$
 
-$$Fe_2 O_3 + 3CO \rarr 2 Fe + 3 CO_2$$
+$$Fe_2 O_3 + 3CO -> 2 Fe + 3 CO_2$$
 
 However, the reducing agent can just as well be plastic. Plastic can
 be converted into a mixture of CO and $H_2$ at high temperatures
 found in a blast furnace (about 1000 &deg;C). This is known as gasification.
 
-$$Fe_2 O_3 + 3 H_2 \rarr 2 Fe + 3 H_2 O$$
-$$Fe_2 O_3 + 3CO \rarr 2 Fe + 3 CO_2$$
+$$Fe_2 O_3 + 3 H_2 -> 2 Fe + 3 H_2 O$$
+$$Fe_2 O_3 + 3CO -> 2 Fe + 3 CO_2$$
 
 At these temperatures, dioxins are destroyed and prevented from forming.
 Additionally, having this much reducing gas ($CO$ an $H_2$) in the environment
@@ -85,7 +85,7 @@ What about the halogens though? (Chlorine, Bromine, Fluorine)
 For Chlorine, the $HCl$ gas that forms can be scrubbed using limestone
 $Ca(OH)_2$.
 
-$$Ca(OH)_2 + 2 H Cl \rarr 2H_2 O + Ca Cl_2$$
+$$Ca(OH)_2 + 2 H Cl -> 2H_2 O + Ca Cl_2$$
 
 Calcium chloride is relatively harmless compared to the dioxins and hydrochloric
 acid. For bromides and fluorides, I haven't bothered to research, but I reckon it
